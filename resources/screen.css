@@ -1,0 +1,17 @@
+div.header
+{
+	position:absolute;
+	float:left;
+	left:50%;	
+}
+	
+div.current
+{
+	z-index:999;
+}
+
+div.hidden, div#branding
+{
+	visibility: hidden;
+	display: none;
+}
